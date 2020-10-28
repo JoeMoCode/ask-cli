@@ -1,0 +1,7 @@
+.commitlintrc.json
+.eslintrc.json
+.github
+docs
+jsconfig.json
+scripts
+test
