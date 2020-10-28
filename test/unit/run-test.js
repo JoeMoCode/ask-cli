@@ -43,6 +43,10 @@ process.env.ASK_SHARE_USAGE = false;
     // command - deploy
     '@test/unit/commands/deploy/index-test',
     '@test/unit/commands/deploy/helper-test',
+    // command - skill
+    '@test/unit/commands/skill/add-locales/index-test',
+    '@test/unit/commands/skill/add-locales/helper-test',
+    '@test/unit/commands/skill/add-locales/ui-test',
     // command - smapi
     '@test/unit/commands/smapi/cli-customization-processor-test.js',
     '@test/unit/commands/smapi/smapi-command-handler-test.js',
